@@ -29,12 +29,12 @@ This project was developed using PlatformIO in Visual Studio Code.
 ---
 
 ## Wiring
-| MAX30100 Pin --> ESP32 Pin |
+| MAX30100 Pin | ESP32 Pin |
 |---|---|
-| VCC --> 3.3V |
-| GND --> GND |
-| SDA --> GPIO 21 |
-| SCL --> GPIO 22 |
+| VCC | 3.3V |
+| GND | GND |
+| SDA | GPIO 21 |
+| SCL | GPIO 22 |
 
 ---
 
